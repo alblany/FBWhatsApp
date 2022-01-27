@@ -1,1 +1,1 @@
-{'ver1': '1'، 'ver2': '60'، 'ver3': '\ nâ گ ï¸ ڈ التمديد: تاريخ انتهاء الصلاحية يصل إلى شهرين \ n [ثابت] إرسال أكثر من 30 وسائط من المعرض \ n' ، 'dli': 'https://dalilalmubtada.blogspot.com/2020/10/whatsapp-business-gold-new.html'}
+{'ver1':'2', 'ver2':'00', 'ver3':'\nتمديد: تاريخ انتهاء الصلاحية يصل إلى شهرين.\n[ثابت] إرسال أكثر من 30 وسائط من المعرض .\n' , 'dli':'https://dalilalmubtada.blogspot.com/2020/10/whatsapp-business-gold-new.html'}
